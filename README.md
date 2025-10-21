@@ -1,4 +1,4 @@
-<h1 align="center">Hello my name isis Eric Cun</h1>
+<h1 align="center">Hello my name is Eric Cun</h1>
 <h3 align="center">A passionate gamer studying computer science</h3>
 
 - ⭐️ I’m currently working on [HSR Relic Scorer](https://github.com/Eric-Cun/HSR-Scorer)
